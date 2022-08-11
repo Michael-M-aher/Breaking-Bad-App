@@ -54,12 +54,13 @@
 
 <img src="https://user-images.githubusercontent.com/25803558/184099587-4cb8ebb3-0f16-43f4-9b93-f86c3fb4a15e.png" width="300" height="600" />
 
+---
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an [issue](https://github.com/Michael-M-aher/Breaking-Bad-App/issues) first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
----
 
 ## Author
 

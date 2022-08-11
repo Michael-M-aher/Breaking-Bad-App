@@ -55,9 +55,26 @@
 <img src="https://user-images.githubusercontent.com/25803558/184099587-4cb8ebb3-0f16-43f4-9b93-f86c3fb4a15e.png" width="300" height="600" />
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an [issue](https://github.com/Michael-M-aher/Breaking-Bad-App/issues) first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+---
+
+## Author
+
+👤 **Michael Maher**
+
+- Twitter: [@Michael___Maher](https://twitter.com/Michael___Maher)
+- Github: [@Michael-M-aher](https://github.com/Michael-M-aher)
+
+## Show your support
+
+Please ⭐️ this repository if this project helped you!
+
+<a href="https://www.buymeacoffee.com/michael.maher" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="200" ></a>
+
+## 📝 License
+
+Copyright © 2022 [Michael Maher](https://github.com/Michael-M-aher).<br />
+This project is [MIT](https://github.com/Michael-M-aher/Breaking-Bad-App/blob/main/LICENSE) licensed.
